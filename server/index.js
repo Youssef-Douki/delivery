@@ -2,7 +2,6 @@ const express = require("express");
 const adminroutes=require("./routes/product.routes.admin.js")
 const userroutes=require("./routes/product.routes.user.js")
 
-var product = require('./database_mysql');
 
 
 const app = express();
