@@ -13,6 +13,7 @@
     "core-js": "^3.6.5",
     "express": "^4.17.2",
     "mysql2": "^2.3.3",
+    "sequelize": "^6.15.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
